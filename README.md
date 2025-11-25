@@ -2,6 +2,8 @@
 
 基于 Node.js 和 Express 实现的微信公众号网页授权登录功能。
 
+源码地址：https://github.com/dao-projects/weixin-auth-login.git
+
 ## 功能特点
 
 - ✅ 完整的 OAuth 2.0 授权流程
